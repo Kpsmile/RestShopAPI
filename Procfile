@@ -1,1 +1,1 @@
-web: gunicorn rest-shop-api-kp.wsgi --log-file -
+web: gunicorn restshop_project.wsgi
